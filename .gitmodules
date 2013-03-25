@@ -1,0 +1,3 @@
+[submodule "py-connect"]
+	path = py-connect
+	url = git@github.com:virajpurang/py-connect.git
